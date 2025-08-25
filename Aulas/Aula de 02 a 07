@@ -1,0 +1,50 @@
+Pequena explicação aprendizado 📝
+Bom, houve um pulo da aula 01 para a aula 07, isso ocorreu pois da aula 2 até a aula 05, é ensinando a instalar o python3 e o editor no computador, ou celular 
+especificamente na aula 3 e 5, a aula 2 é explicando para que serve o python e como ele é usado, porém ja foi dito isso na aula 01, e na aula 4, são os primeiros comandos
+no python, mas seria um texto muito vago sobre os primeiros comandos então preferi não colocar nesse repositório.
+A respeito das aulas 06 e 07 eu aprendi a usar Tipos primitivos e Operadores Aritiméticos, colocarei Todas no mesmo repositório pois assim consigo organizar melhor
+como eu aprendi
+
+Tipos primitivos 🧮
+São eles, Float, Int, boal e str
+- str: Significa string. Caso você não coloque nenhum outro tipo primitivo após o "=" que significa "recebe" a função será uma string, 
+então eu não entendi bem para que serve  esse comando, talvez para algo que ainda não sei, mas surgiu uma ideia enquanto pensava sobre,
+talvez eu poderia colocar uma string dentro de um inteiro, mas é só um chute meu
+
+- int: serve para definir a função como um inteiro, então por exemplo se eu escrevesse:
+Idade = int(input('Qual sua idade? '))
+Aqui eu criei uma variavel chamada Idade, e essa variavel recebe (=) a função Inteiro (int) que é chamada função imbutida, o (input) se você traduzir
+seria entrada, que da pra ter uma noção de oque significa, mas ele quer dizer lê um valor digitado pelo usuário e retorna depois em string, porém como eu coloquei
+(int) antes do (input) o valor digitado pelo usuário seria um inteiro, logo o usuário não poderia digitar uma palavra ou um número decimal, pois ocorreria um erro
+
+-Float: É justamente os números decimais, porém no python ou na gringa, que foi onde o python foi feito, ele é chamado de número flutuante.
+Ele funciona igual ao (int) a diferença é que ele te retorna um número decimal, não um número inteiro, então se eu escrevesse 
+Idade = int(input('Qual sua idade? ')) e o usurario respondesse 20, o programa retornaria 20,0 e não apenas 20.
+
+-Boal: Ele diz se algo é verdadeiro ou falso, então por exemplo:
+Palavra = bool(input("Digite algo: "))
+print(Palavra)
+Nessa função, eu criei a variavel chama Palavra e atribuí ela como bool, na segunda linha eu escrevi print(Palavra) aqui está dizendo basicamente Escreva(Variável)
+Então quando o input digitar "Diga algo" e o usuario responder, oque o usuario disser será atribuído a variável, e será escrito embaixo, mas assim eu estaria descartando
+a função imbutida (bool), com o bool, se o usuario disser "oi" esse Oi será retornado como True, afinal Oi é uma palavra, caso o usuario deixe em branco, será retornado
+como False, pois nada foi dito
+
+Operadores Aritiméticos 🔢
+Nessa aula aprendi como usar as operações aritiméticas no python3 e alguma delas são representadas por outros simbolos diferentes do que aprendemos na escola
+Segue as operações Disponiveis no python3 sem o uso de Módulos
+Adição: +
+Subtração: -
+Divisão: /
+Multiplicação: *
+Potência: **
+Divisão inteira: //
+Resto da Divisão: %
+Todos nós conhecemos as operaçõesa até a parte de potência, A divisão inteiro e o resto da divisão pode te pegar um pouco mas é literalmente oque o nome diz.
+A inteira seria o quociente sem a parte da virgula, ou seja sem adicionar mais um zero após o resto e quen não é divisivel pelo divisor.
+o Resto de divisão seria oque sobra, ou seja, o resto da divisão.
+Exemplo: 5 dividido por 2, o resuldado dessa conta seria 2,5 porém o inteiro é 2 e o resto é 1.
+Simbolo de igual: ele é representado por dois = ou seja ==, pois se eu colocar apenas um = o python idenficará ele como "recebe" como foi dito na parte de Tipos primitivos
+
+Ordem de Precedência ✍
+1º (): Em uma equação parenteses sempre serão prioridade                  3º *, /, %, //: Multiplicação, Divisão, Inteiro e Reste Serão prioridade após a potência
+2º **: A potência será sempre prioridade após os parenteses               4º +, -: Soma e Subtração não tem prioridade nenhuma
