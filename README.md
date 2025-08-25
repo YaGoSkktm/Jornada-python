@@ -1,7 +1,8 @@
 # Jornada de Aprendizado em Python
 ## Curso de Python 3 Mundo 1 – Curso em Vídeo (Gustavo Guanabara)
 
-Esse projeto visa apresentar meu aprendizado em python através do curso em video.
+Esse projeto visa apresentar meu aprendizado em python através do curso em video
+e no futuro comparar com novos projetos meus para ver o tanto que eu melhorei.
 
 ## 📚 Conteúdo
 - Conceitos básicos de Python
@@ -10,10 +11,11 @@ Esse projeto visa apresentar meu aprendizado em python através do curso em vide
 - Manipulação de strings e listas
 
 ## 💻 Exemplos de código
-Exercícios e pequenos projetos práticos feitos durante o curso.
+Irei colocar nesse repositório meus códigos feitos durante todo o curso.
 
 ## 🛠️ Como rodar
-Basta abrir os arquivos `.py` no Python 3.  
+Basta abrir os arquivos `.py` no Python 3.
+(Nas aulas 3 e 5 é ensinado como baixar o python 3 e o editor pycharm para linux, mac, Windows e android)
 
 ---
 
