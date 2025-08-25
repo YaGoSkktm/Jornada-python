@@ -15,7 +15,7 @@ São mais de 100 exercícios durante o curso, portanto, colocarei apenas código
 
 ## 🛠️ Como rodar
 Basta abrir os arquivos `.py` no Python 3.
-(Nas aulas 3 e 5 é ensinado como baixar o python 3 e o editor pycharm para linux, mac, Windows e android)
+(Nas aulas 3 e 5, é ensinado como baixar o python3 e o editor pycharm para linux, mac, Windows e android)
 
 ---
 
