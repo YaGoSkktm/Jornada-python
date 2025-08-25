@@ -11,7 +11,7 @@ e no futuro comparar com novos projetos meus para ver o tanto que eu melhorei.
 - Manipulação de strings e listas
 
 ## 💻 Exemplos de código
-Irei colocar nesse repositório meus códigos feitos durante todo o curso.
+São mais de 100 exercícios durante o curso, portanto, colocarei apenas códigos que eu considerar mais relevantes, pois pode gerar poluição
 
 ## 🛠️ Como rodar
 Basta abrir os arquivos `.py` no Python 3.
